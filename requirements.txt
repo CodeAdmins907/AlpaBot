@@ -1,2 +1,0 @@
-discord.net==2.1.1
-HtmlAgilityPack==1.11.17
